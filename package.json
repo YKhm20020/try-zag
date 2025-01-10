@@ -12,6 +12,8 @@
   },
   "dependencies": {
     "@chakra-ui/react": "^3.3.0",
+    "@emotion/react": "^11.14.0",
+    "@zag-js/checkbox": "^0.81.0",
     "@zag-js/react": "^0.81.0",
     "@zag-js/tooltip": "^0.81.0",
     "next": "15.1.4",
